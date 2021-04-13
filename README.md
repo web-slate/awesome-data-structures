@@ -13,7 +13,7 @@ every Data Structures under the sun. So, what does "awesome" mean? Well:
   - [Arrays](https://github.com/web-slate/awesome-stack-data-structure)
   - [Queue](https://github.com/web-slate/awesome-stack-data-structure)
   - [Linked List](https://github.com/web-slate/awesome-stack-data-structure)
-- [Non Linear](#non linear)
+- [Non Linear](#non-linear)
   - [Tree](https://github.com/web-slate/awesome-stack-data-structure)
   - [Graphs](https://github.com/web-slate/awesome-stack-data-structure)
 
